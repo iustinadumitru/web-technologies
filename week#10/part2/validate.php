@@ -2,5 +2,5 @@
     $doc = new DOMDocument();
     $doc->load('bike-shop.xml');
 
-    echo $doc -> schemaValidate('bike-shop.xsd');
+    echo $doc -> schemaValidate('solution.xsd');
 ?>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bike-shop>
+    <owner> Marcel </owner>
+    <phone> 0741123123 </phone>
+    <phone> 0332123123 </phone>
+    <schedule>
+        <Monday>08:00 - 16:00</Monday>
+        <Tuesday>08:00 - 16:00</Tuesday>
+        <Wednesday>08:00 - 16:00</Wednesday>
+        <Thursday>08:00 - 16:00</Thursday>
+        <Friday>08:00 - 16:00</Friday>
+        <Saturday>08:00 - 16:00</Saturday>
+        <Sunday>closed</Sunday>
+    </schedule>
+    <bikes>
+        <bike bought-from="Gigel" build-at="22 Apr 2018" />
+    </bikes>
+</bike-shop>
